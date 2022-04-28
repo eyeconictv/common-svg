@@ -4,9 +4,9 @@
   "description": "Common svg directive and image files to be shared across Rise Vision apps, widgets and components.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Rise-Vision/common-svg.git"
+    "url": "git://github.com/porcupine-plan/common-svg.git"
   },
-  "homepage": "https://github.com/Rise-Vision/common-svg",
+  "homepage": "https://github.com/porcupine-plan/common-svg",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
